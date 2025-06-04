@@ -10,7 +10,7 @@ This study uses data from two publicly available longitudinal cohort studies:
 
 - **Osteoarthritis Initiative (OAI):** [https://nda.nih.gov/oai](https://nda.nih.gov/oai)
 
-- **Multicenter Osteoarthritis Study (MOST):** [https://most.ucsf.edu/multicenter-osteoarthritis-study-most-public-data-sharing](https://most.ucsf.edu/multicenter-osteoarthritis-study-most-public-data-sharing)
+- **Multicenter Osteoarthritis Study (MOST):** [https://most.ucsf.edu](https://most.ucsf.edu)
 
 ## Environment
 Create a virtual environment and install PyTorch and other dependencies.
