@@ -28,4 +28,4 @@ Create a virtual environment and install PyTorch and other dependencies.
     --use_checkpoint False
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).  
-See [LICENSE](./LICENSE-CC-BY-NC-4.0.md) for more details.
+See [LICENSE](./LICENSE) for more details.
